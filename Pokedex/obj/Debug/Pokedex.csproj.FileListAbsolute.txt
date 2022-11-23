@@ -1,0 +1,13 @@
+C:\Users\samue\source\repos\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\samue\source\repos\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\samue\source\repos\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Tracker.resources
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Pokemon.resources
+C:\Users\samue\source\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Busqueda.resources
